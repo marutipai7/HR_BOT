@@ -1,0 +1,125 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "name": "Alice Johnson",
+        "skills": ["Python", "React", "AWS"],
+        "experience_years": 5,
+        "projects": ["E-commerce Platform", "Healthcare Dashboard"],
+        "availability": "available"
+      },
+      {
+        "id": 2,
+        "name": "Michael Rodriguez",
+        "skills": ["Machine Learning", "scikit-learn", "Pandas"],
+        "experience_years": 4,
+        "projects": ["Patient Risk Prediction System", "Fraud Detection Model"],
+        "availability": "available"
+      },
+      {
+        "id": 3,
+        "name": "Sarah Chen",
+        "skills": ["Machine Learning", "TensorFlow", "PyTorch", "Medical Data Processing"],
+        "experience_years": 6,
+        "projects": ["Medical Diagnosis Platform", "Cancer Detection AI"],
+        "availability": "available"
+      },
+      {
+        "id": 4,
+        "name": "David Lee",
+        "skills": ["React Native", "JavaScript", "Node.js"],
+        "experience_years": 3,
+        "projects": ["Food Delivery App", "Fitness Tracker"],
+        "availability": "busy"
+      },
+      {
+        "id": 5,
+        "name": "Priya Patel",
+        "skills": ["AWS", "Docker", "Kubernetes"],
+        "experience_years": 7,
+        "projects": ["Cloud Migration Project", "DevOps Automation"],
+        "availability": "available"
+      },
+      {
+        "id": 6,
+        "name": "James Smith",
+        "skills": ["Java", "Spring Boot", "MySQL"],
+        "experience_years": 8,
+        "projects": ["Banking Transaction System", "Loan Approval Engine"],
+        "availability": "busy"
+      },
+      {
+        "id": 7,
+        "name": "Linda Wong",
+        "skills": ["Data Science", "Python", "NLP"],
+        "experience_years": 5,
+        "projects": ["Chatbot for E-commerce", "Sentiment Analysis Tool"],
+        "availability": "available"
+      },
+      {
+        "id": 8,
+        "name": "Ahmed Khan",
+        "skills": ["Cybersecurity", "Network Security", "Penetration Testing"],
+        "experience_years": 9,
+        "projects": ["Bank Security Audit", "Firewall Optimization"],
+        "availability": "available"
+      },
+      {
+        "id": 9,
+        "name": "Emma Davis",
+        "skills": ["UI/UX Design", "Figma", "Adobe XD"],
+        "experience_years": 4,
+        "projects": ["Healthcare Dashboard Design", "E-learning Platform UI"],
+        "availability": "busy"
+      },
+      {
+        "id": 10,
+        "name": "Carlos Martinez",
+        "skills": ["C#", ".NET", "Azure"],
+        "experience_years": 6,
+        "projects": ["HR Management System", "Inventory Tracking App"],
+        "availability": "available"
+      },
+      {
+        "id": 11,
+        "name": "Olivia Brown",
+        "skills": ["Python", "FastAPI", "PostgreSQL"],
+        "experience_years": 3,
+        "projects": ["Job Portal API", "Logistics Management System"],
+        "availability": "available"
+      },
+      {
+        "id": 12,
+        "name": "Robert Wilson",
+        "skills": ["AI Ethics", "Data Privacy", "Machine Learning"],
+        "experience_years": 10,
+        "projects": ["GDPR Compliance AI", "AI Risk Assessment Tool"],
+        "availability": "busy"
+      },
+      {
+        "id": 13,
+        "name": "Sophia Kim",
+        "skills": ["React", "Next.js", "TypeScript"],
+        "experience_years": 4,
+        "projects": ["Travel Booking Website", "Event Management App"],
+        "availability": "available"
+      },
+      {
+        "id": 14,
+        "name": "Ethan Clark",
+        "skills": ["Golang", "Microservices", "AWS"],
+        "experience_years": 5,
+        "projects": ["High-Scale Payment API", "IoT Device Management"],
+        "availability": "busy"
+      },
+      {
+        "id": 15,
+        "name": "Isabella White",
+        "skills": ["Python", "Django", "ML Ops"],
+        "experience_years": 6,
+        "projects": ["Healthcare Prediction API", "Supply Chain Optimization"],
+        "availability": "available"
+      }
+    ]
+  }
+  
